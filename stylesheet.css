@@ -46,9 +46,10 @@ html, body {
 }
 
 .avatar {
-    display: inline-block;
     width: 25px;
     height: 25px;
+    float: left;
+    padding-right: 10px;
 }
 
 p {
